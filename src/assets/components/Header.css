@@ -1,0 +1,70 @@
+.header{
+    background-color: #DCE9E2;
+    width: 80%;
+    margin-left: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: sticky;
+    top: 0;
+    padding: 10px;
+    z-index: 20;
+    transition: background-color 0.3s ease;
+
+}
+.header.scrolled {
+    background-color: #00856F;
+    color: aliceblue;
+}
+.header.scrolled .headerLinkai {
+    color: white; 
+}
+.header.scrolled .headerBtn {
+    color: #00856F; 
+    background-color: white; 
+}
+.header.scrolled .care {
+    color: black; 
+}
+.headerh2{
+    margin-left: 30px;
+}
+.headerLink{
+    display: flex;
+    gap: 30px;
+
+}
+.care{
+    color: #00856F;
+}
+.headerLinkai{
+    color: #00856F;
+    text-decoration: none;
+    font-size: 20px;
+    border: 1px solid transparent;
+    border-radius: 15px;
+    padding: 10px 25px;
+    transition: color 0.3s ease;
+
+}
+
+.headerLinkai:hover{
+    color: white;
+    background-color: #00856F;
+}
+.headerBtn{
+    margin-right: 30px;
+    color: #00856F;
+    border: 1px solid #00856F;
+    background-color: transparent;
+    border-radius: 15px ;
+    padding: 10px 20px;
+    font-weight: 700;
+    transition: color 0.3s ease;
+}
+.headerBtn:hover{
+    background-color: #00856F;
+    color: white;
+    border: px solid white;
+
+}
