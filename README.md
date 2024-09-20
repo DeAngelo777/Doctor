@@ -1,8 +1,10 @@
-# React + Vite
+<!-- @format -->
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# DoctorCare App Project
 
-Currently, two official plugins are available:
+Contrbutors:
+Laimonas [Babel](https://github.com/DeAngelo777)
+Tomas [Babel](https://github.com/tomaskls)
+Darius [Babel](https://github.com/eXcipial)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [@DEMO](<https://www.figma.com/design/Uko3dHGKbE8RV3AOO63Y3R/DoctorCare-(Community)?node-id=0-1&node-type=canvas&t=Qr1PS0qaPTwrIHM2-0>)

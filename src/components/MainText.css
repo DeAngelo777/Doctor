@@ -1,0 +1,39 @@
+.mainText-container {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+    width: 80%;
+    margin: auto;
+    margin-top: 10%;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+
+    gap: 5%;
+    
+  }
+
+  .greenText {
+    color: #04B486;
+    font-weight: 600;
+  }
+  
+  .mainText-container .mainText-info {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    justify-content: center;
+    align-items: left;
+    width: 50%;
+  }
+  
+  .mainText-container .mainText-image{
+    width: 50%;
+  }
+  
+  .mainText-image img {
+    width: 80%;
+    border-radius: 8px;
+
+  }
