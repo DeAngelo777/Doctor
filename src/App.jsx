@@ -1,14 +1,24 @@
+
+import './App.css'
+import { Firstsection } from './assets/components/Firstsection'
+import { Header } from './assets/components/Header'
 import Contact from './components/Contact.jsx'; 
 import Footer from './components/Footer.jsx';  
-import './App.css'; 
 
 function App() {
+
   return (
-    <div className="app-container">
+    <>
+      <Header />
+      <Firstsection />
+//     ----------------------
+//     MAIN
+//     ----------------------
+      <div className="app-container">
       <Contact />
       <Footer />
-    </div>
-  );
+    </>
+  )
 }
 
 export default App;
