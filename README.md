@@ -2,7 +2,8 @@
 
 # DoctorCare App Project
 
-Contrbutors:
+## Contrbutors: <br>
+
 Laimonas [DeAngelo777](https://github.com/DeAngelo777) <br>
 Tomas [eXcipial](https://github.com/tomaskls)<br>
 Darius [tomaskls](https://github.com/eXcipial)<br>
