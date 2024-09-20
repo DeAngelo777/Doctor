@@ -14,4 +14,4 @@ Darius [tomaskls](https://github.com/eXcipial)<br>
 
 ### How to launch a project?: <br>
 
-<code>npm install node-module</code>
+<code>npm install node-modules</code>
