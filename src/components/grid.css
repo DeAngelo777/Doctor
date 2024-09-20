@@ -1,0 +1,45 @@
+.textContainer{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    margin-top: 10%;
+    text-align: center;
+    margin-bottom: 5%;
+
+}
+
+  .greenText {
+    color: #04B486;
+    font-weight: 600;
+  }
+  
+.gridContainer {
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+
+}
+.line {
+    padding-top: 50px;
+}
+.grid{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    background-color: #fff;
+    padding: 30px;
+    gap: 15px;
+}
+
+.grid h3 {
+    font-size: 1rem;
+}
+
+.grid p {
+    color: #888;
+}
+
+.grid img {
+    width: 25px;
+    height: 25px;
+}
